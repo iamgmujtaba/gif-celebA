@@ -15,15 +15,15 @@ git clone https://github.com/iamgmujtaba/gif-celebA
 cd gif-celebA
 ```
 
-- Install [TensorFlow](https://www.tensorflow.org/) and Keras and other dependencies
-  - For pip users, please type the command `pip install -r requirements.txt`.
-- Create virtual enviroment by using the following commands in Ubuntu
+- Create a virtual environment by using the following commands in Ubuntu.
 ```bash
 virtualenv --python=/usr/bin/python3.6 venv
 source ./venv/bin/activate
 ```
+- Install [TensorFlow](https://www.tensorflow.org/) and Keras and other dependencies
+  - For pip users, please type the command `pip install -r requirements.txt`.
 
-### CelbA dataset train
+### CelebA dataset train
 - Download the CelebA dataset [here](https://www.kaggle.com/jessicali9530/celeba-dataset)
 - Extract the downloaded file in the data folder and the structure should look like this:
 
