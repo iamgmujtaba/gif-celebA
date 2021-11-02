@@ -1,0 +1,8 @@
+tensorflow-gpu==1.14.0
+Keras==2.2.4
+scikit-learn
+pandas
+opencv-python
+pillow
+seaborn
+matplotlib
