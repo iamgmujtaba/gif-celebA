@@ -1,6 +1,7 @@
 
 ## CelebA dataset:
 A wide variety of datasets suitable for use is the CelebA dataset. This is a large facial attribute dataset containing over 200,000 celebrity images, each covering a large number of variations with 40 attribute annotations.
+The detailed description is available in this [Blog](https://iamgmujtaba.medium.com/generating-animated-images-gif-webp-with-cnn-and-keras-part-1-4193887cf6)
 
 ## Prerequisite
 - Linux
